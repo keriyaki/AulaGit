@@ -5,3 +5,4 @@ Projeto da disciplina de POO
 #Alunos
 
 * Klebinho 
+* Amoi
